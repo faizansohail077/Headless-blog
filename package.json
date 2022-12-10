@@ -1,0 +1,12 @@
+{
+  "name": "headless-blog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:faizansohail077/Headless-blog.git",
+  "scripts": {
+    "api": "cd ./api && code . && yarn develop",
+    "client": "cd client && code . && yarn dev"
+  },
+  "author": "Faizan <faizansohail077@gmail.com>",
+  "license": "MIT"
+}
